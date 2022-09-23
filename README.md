@@ -21,3 +21,6 @@ Controller: Contains the middleware and handlers used to respond to calls on the
   
 ![image](https://user-images.githubusercontent.com/76602007/192036015-77cca879-77aa-41c5-9754-e8938d9785a8.png)
 ![image](https://user-images.githubusercontent.com/76602007/192036138-86fdd40f-11c3-4960-8284-df9d39261936.png)  
+
+## Technology
+React, JSX, Express, JavaScript, HTML, CSS, JSON, Node Package Manager, Jest
